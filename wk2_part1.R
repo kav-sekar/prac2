@@ -334,9 +334,9 @@ install.packages(c("RColorBrewer", "sp", "rgeos",
                    "geojsonio"))
 
 #new comment for GIT checking
-
-
-
+#install.packages("usethis")
+#library(usethis)
+#use_github()
 
 
 
